@@ -1,5 +1,12 @@
-## Introduction
+## README
 
+# IMPORTANT NOTES
+	1 - The provided scripts must be executed on the same directory where the dataset is present.
+	2 - Library sqldf will be used when reading the dataset
+	3 - Legend box has different behaviour depending on local settings
+
+	
+# Introduction
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
